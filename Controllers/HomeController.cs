@@ -23,7 +23,16 @@ namespace MyWebsite.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult About()
+        {
+            return View();
+        }
+
+        public IActionResult Resume()
+        {
+            return View();
+        }
+        public IActionResult Work()
         {
             return View();
         }
