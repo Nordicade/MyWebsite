@@ -59,9 +59,11 @@ html {
 }
 
 body {
-  /* Margin bottom by footer height */
-  margin-bottom: 60px;
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+    background-color: gainsboro;
 }
+
 .footer {
   position: absolute;
   bottom: 0;
@@ -87,3 +89,4 @@ body {
     margin-right: 10px;
     padding-right: 10px;
 }
+
